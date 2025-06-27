@@ -1,5 +1,11 @@
 📰 Fake News Detection Using Machine Learning
 
+** Due to size restrictions I am unable to upload the Datasets **
+Download Here- 
+https://drive.google.com/file/d/1TOa0daB_ywM2lOMeGrlInOZFOjJmhx_V/view?usp=share_link  (True.csv)
+https://drive.google.com/file/d/1_pjs6dSlS-D-SfhWf8lR883xCk4-avig/view?usp=share_link  (Fake.csv)
+https://drive.google.com/file/d/12aeNtzijQG-Y7w2SftonV5lYkLgfIO3w/view?usp=share_link  (merged)
+
 This project is a machine learning-powered system that classifies news articles as FAKE or REAL based on their content. It uses natural language processing (NLP) and a Logistic Regression model, and provides a user-friendly web interface built with Streamlit.
 
 📌 Project Objective
